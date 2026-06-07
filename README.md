@@ -40,10 +40,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on learning and
 
 ---
 
- 
-
----
-
 ## ⚡ Fun Fact
 
 I enjoy turning ideas into real working applications step by step.
