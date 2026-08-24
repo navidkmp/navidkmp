@@ -1,0 +1,18 @@
+<svg width="450" height="150" viewBox="0 0 450 150" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="449" height="149" fill="#ffffff" fill-opacity="0" stroke="#000" stroke-width="1" rx="4"/>
+  <defs>
+    
+    <clipPath id="master-clip"><rect x="0" y="0" width="450" height="150"/></clipPath>
+    <style type="text/css"><![CDATA[
+.text-common { 
+        dominant-baseline: middle; 
+        text-rendering: optimizeLegibility;
+        shape-rendering: geometricPrecision;
+      }
+    ]]></style>
+  </defs>
+  <g clip-path="url(#master-clip)">
+    <text class="text-common" y="75" xml:space="preserve" style="font-family:'Courier Prime',monospace;font-size:34px;font-weight:600;fill:#001eff;letter-spacing:0.1em;"><tspan x="51.6" opacity="0">H<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0s" fill="freeze"/></tspan><tspan x="72" opacity="0">e<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.4s" fill="freeze"/></tspan><tspan x="92.4" opacity="0">l<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.8s" fill="freeze"/></tspan><tspan x="112.8" opacity="0">l<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.2s" fill="freeze"/></tspan><tspan x="133.2" opacity="0">o<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.6s" fill="freeze"/></tspan><tspan x="153.6" opacity="0">.<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2s" fill="freeze"/></tspan><tspan x="174" opacity="0">.<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.4s" fill="freeze"/></tspan><tspan x="194.4" opacity="0">.<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.8s" fill="freeze"/></tspan><tspan x="214.8" opacity="0"> <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="3.2s" fill="freeze"/></tspan><tspan x="235.2" opacity="0">I<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="3.6s" fill="freeze"/></tspan><tspan x="255.6" opacity="0">m<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4s" fill="freeze"/></tspan><tspan x="276" opacity="0"> <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4.4s" fill="freeze"/></tspan><tspan x="296.4" opacity="0">N<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4.8s" fill="freeze"/></tspan><tspan x="316.8" opacity="0">a<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="5.2s" fill="freeze"/></tspan><tspan x="337.2" opacity="0">v<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="5.6s" fill="freeze"/></tspan><tspan x="357.6" opacity="0">i<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="6s" fill="freeze"/></tspan><tspan x="378" opacity="0">d<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="6.4s" fill="freeze"/></tspan></text>
+    <rect y="-25.5" width="2.5" height="40.8" fill="#001eff" visibility="hidden"><animate attributeName="x" values="76.08;96.48;116.88;137.28;157.68;178.08;198.48;218.88;239.28;259.68;280.08;300.48;320.88;341.28;361.68;382.08;402.48" dur="6.8s" calcMode="discrete" begin="0s" fill="freeze"/><animate attributeName="y" values="49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5;49.5" dur="6.8s" calcMode="discrete" begin="0s" fill="freeze"/><animate attributeName="visibility" from="hidden" to="visible" dur="0.01s" begin="0s" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur="1.4s" begin="7.8s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
