@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on learning and
 
 ### 👨‍💻 Languages
 - Python 🐍
-- JavaScript (basic)
+- JavaScript🔰
 
 ### 🌐 Backend
 - Django
@@ -29,20 +29,13 @@ Welcome to my GitHub profile! I'm a passionate developer focused on learning and
 - REACT
 
 ### 🗄️ Database
-- SQLite
 - PostgreSQL
 
 ### ⚙️ Tools
 - Git & GitHub
 - VS Code
 - PYcharm
-- Linux basics
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into real working applications step by step.
+- PGadmin
 
 ---
 
