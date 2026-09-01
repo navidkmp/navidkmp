@@ -1,6 +1,6 @@
 # Hi, I'm Navid👋 
 
-Welcome to my GitHub profile! I'm a passionate developer focused on learning and building real-world projects with Python, Django & javascript, react.
+Welcome to my GitHub profile! I'm a passionate developer focused on learning and building real-world projects with Python, Django & javascript, react!
 
 ---
 
